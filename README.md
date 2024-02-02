@@ -30,10 +30,5 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
-## Contact
-
-If you have any questions or suggestions, feel free to contact the project maintainer at [your_email@example.com](mailto:your_email@example.com).
-
-Thank you for checking out the Todo List App project! We hope it helps you stay organized and productive in managing your tasks.
